@@ -173,6 +173,12 @@
   },
   "active": "ee2e960319e1afea",
   "lastOpenFiles": [
+    "_site/categories/mysql/index.html",
+    "_site/categories/mysql",
+    "_site/categories/database/index.html",
+    "_site/categories/database",
+    "_site/posts/Stored-Procedure/index.html",
+    "_site/posts/Stored-Procedure",
     "_posts/2019-08-11-customize-the-favicon.md",
     "_posts/2024-02-28-Stored Procedure.md",
     "assets/template/블로그 템플릿.md",
@@ -183,11 +189,6 @@
     "_site/tags/getting/index.html",
     "_site/tags/getting",
     "_site/assets/js/dist/post.min.js",
-    "_site/assets/js/dist/page.min.js",
-    "_site/assets/js/dist/misc.min.js",
-    "_site/assets/js/dist/home.min.js",
-    "_site/assets/js/dist/commons.min.js",
-    "_site/assets/js/dist/categories.min.js",
     "_posts/2024-02-16-테스트.md",
     "_posts/무제 파일 1.md"
   ]
