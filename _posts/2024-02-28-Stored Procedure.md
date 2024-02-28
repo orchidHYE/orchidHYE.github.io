@@ -27,7 +27,7 @@ math: true
 
 # Procedure의 형식
 
-```sql
+```SQL
 DELIMITER $$
 CREATE PROCEDURE '프로시저명' (
 	IN 파라미터명 데이터타입,
