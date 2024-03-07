@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-02-28-Stored Procedure.md",
+                "file": "_posts/2024-03-07-.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-02-28-Stored Procedure.md",
+                "file": "_posts/2024-03-07-.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-02-28-Stored Procedure.md",
+                "file": "_posts/2024-03-07-.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-02-28-Stored Procedure.md"
+                "file": "_posts/2024-03-07-.md"
               }
             }
           }
@@ -172,8 +172,10 @@
   },
   "active": "ee2e960319e1afea",
   "lastOpenFiles": [
-    "_posts/2024-03-07-.md",
     "_posts/2024-02-28-Stored Procedure.md",
+    "_posts/2024-03-07-.md",
+    "_site/categories/git/index.html",
+    "_site/categories/git",
     "_site/categories/mysql/index.html",
     "_site/categories/mysql",
     "_site/categories/database/index.html",
@@ -186,8 +188,6 @@
     "_posts/2024-02-17-무제 파일.md",
     "_site/tags/started/index.html",
     "_site/tags/started",
-    "_site/tags/getting/index.html",
-    "_site/tags/getting",
     "_posts/2024-02-16-테스트.md",
     "_posts/무제 파일 1.md"
   ]
