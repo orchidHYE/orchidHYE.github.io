@@ -92,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ac6cd889b18de180",
@@ -173,6 +172,8 @@
   },
   "active": "ee2e960319e1afea",
   "lastOpenFiles": [
+    "_posts/2024-03-07-.md",
+    "_posts/2024-02-28-Stored Procedure.md",
     "_site/categories/mysql/index.html",
     "_site/categories/mysql",
     "_site/categories/database/index.html",
@@ -180,7 +181,6 @@
     "_site/posts/Stored-Procedure/index.html",
     "_site/posts/Stored-Procedure",
     "_posts/2019-08-11-customize-the-favicon.md",
-    "_posts/2024-02-28-Stored Procedure.md",
     "assets/template/블로그 템플릿.md",
     "_posts/2019-08-09-getting-started.md",
     "_posts/2024-02-17-무제 파일.md",
@@ -188,7 +188,6 @@
     "_site/tags/started",
     "_site/tags/getting/index.html",
     "_site/tags/getting",
-    "_site/assets/js/dist/post.min.js",
     "_posts/2024-02-16-테스트.md",
     "_posts/무제 파일 1.md"
   ]

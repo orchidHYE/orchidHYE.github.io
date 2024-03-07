@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""
+title: Stored Procedure
 date: 2024-02-28 21:32 +0900
 categories:
   - Database
