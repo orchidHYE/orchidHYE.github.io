@@ -18,7 +18,6 @@ math: true
 
 
 # **해결 방법**
-
 #### **bare와 mirror 옵션 사용하기**
 
 1. GitHub에서 새 repository 생성
@@ -34,8 +33,8 @@ math: true
 
 **위와 같은 명령어를 통해 안보였던 잔디가 정상적으로 보여지게 됐다.**
 
-그럼 여기서 bare / mirror가 뭐길래 안보였던 잔디가 보이는 걸까.
 
+그럼 여기서 bare / mirror가 뭐길래 안보였던 잔디가 보이는 걸까.
 # **--bare**
 - 로컬 저장소에 Git repository를 bare로 만든다.
 	- 일반적인 repository는 working tree와 .git으로 구성된다.
