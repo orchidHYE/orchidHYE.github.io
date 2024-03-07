@@ -7,7 +7,7 @@ categories:
 tags: 
 math: true
 ---
-# 잔디가 심어지기 위한 조건
+# **잔디가 심어지기 위한 조건**
 
 
 1. GitHub 계정과 commit한 이메일이 동일해야 한다.
@@ -17,9 +17,9 @@ math: true
 나는 Pull Request를 보낼 수 없는 상황이었다.**
 
 
-# 해결 방법
+# **해결 방법**
 
-### bare와 mirror 옵션 사용하기
+#### **bare와 mirror 옵션 사용하기**
 
 1. GitHub에서 새 repository 생성
 2. 프로젝트 파일을 관리하는 곳에서 터미널 실행
@@ -36,14 +36,14 @@ math: true
 
 그럼 여기서 bare / mirror가 뭐길래 안보였던 잔디가 보이는 걸까.
 
-# --bare
+# **--bare**
 - 로컬 저장소에 Git repository를 bare로 만든다.
 	- 일반적인 repository는 working tree와 .git으로 구성된다.
 	- working tree에는 실제 파일들이 존재하고, .git에는 Git 객체 데이터(object)와 메타 데이터(refs등)가 저장된다.
 	- bare 옵션을 사용한 repository는 working tree 없이 오직 Git 객체 데이터(object)와 메타 데이터(refs등)만을 포함한다.
 - 이는 내부적으로 Git이 `$GIT_DIR`을 사용하여 작업하기 때문이다.
 
-# --mirror
+# **--mirror**
 - 원본 repository의 모든 refs 정보를, 타겟 repository에 복사한다.
 - 이는 원격 브랜치, 태그, 풀 리퀘스트 등을 모두 포함한다.
 - 이를 통해 타겟 repository는 원본 repository 간의 참조(refs) 정보의 동기화가 이루어진다 
