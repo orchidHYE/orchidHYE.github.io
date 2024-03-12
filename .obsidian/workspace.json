@@ -4,45 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "ac2587a57fff3ede",
+        "id": "597b5bab6a95ebb8",
         "type": "tabs",
         "children": [
           {
-            "id": "a2929babb1cbfa1e",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.8"
-              }
-            }
-          },
-          {
-            "id": "ee2e960319e1afea",
+            "id": "379a44b8defac83c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-03-07-Fork해온 Repository 동기화.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fdf0c60a5158409d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2024-03-08-다중화와 IP.md",
+                "file": "_posts/2024-03-12-Git CRLF.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-03-08-다중화와 IP.md",
+                "file": "_posts/2024-03-12-Git CRLF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-03-08-다중화와 IP.md",
+                "file": "_posts/2024-03-12-Git CRLF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-03-08-다중화와 IP.md"
+                "file": "_posts/2024-03-12-Git CRLF.md"
               }
             }
           }
@@ -170,14 +147,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fdf0c60a5158409d",
+  "active": "379a44b8defac83c",
   "lastOpenFiles": [
+    "_posts/2024-03-07-Fork해온 Repository 동기화.md",
+    "_posts/2024-03-12-Git CRLF.md",
+    "_posts/2024-03-11-시간복잡도.md",
+    "assets/img/ram.webp",
+    "_posts/![Uploading.md",
+    "assets/template/표.md",
+    "assets/template/블로그 템플릿.md",
+    "_posts/2024-03-08-다중화와 IP.md",
     "_site/posts/다중화와-IP/index.html",
     "_site/posts/다중화와-IP",
     "_site/categories/network/index.html",
     "_site/categories/network",
-    "_posts/2024-03-07-Fork해온 Repository 동기화.md",
-    "_posts/2024-03-08-다중화와 IP.md",
     "_site/posts/Fork해온-Repository-동기화/index.html",
     "_site/posts/Fork해온-Repository-동기화",
     "_posts/2024-02-28-Stored Procedure.md",
@@ -185,12 +168,9 @@
     "_site/categories/git",
     "_site/categories/mysql/index.html",
     "_site/categories/mysql",
-    "_site/categories/database/index.html",
     "_posts/2019-08-11-customize-the-favicon.md",
-    "assets/template/블로그 템플릿.md",
     "_posts/2019-08-09-getting-started.md",
     "_posts/2024-02-17-무제 파일.md",
-    "_posts/2024-02-16-테스트.md",
-    "_posts/무제 파일 1.md"
+    "_posts/2024-02-16-테스트.md"
   ]
 }
