@@ -149,6 +149,10 @@
   },
   "active": "379a44b8defac83c",
   "lastOpenFiles": [
+    "_site/posts/Git-CRLF/index.html",
+    "_site/posts/Git-CRLF",
+    "_site/assets/template/표.md",
+    "_site/assets/img/ram.webp",
     "_posts/2024-03-07-Fork해온 Repository 동기화.md",
     "_posts/2024-03-12-Git CRLF.md",
     "_posts/2024-03-11-시간복잡도.md",
@@ -167,7 +171,6 @@
     "_site/categories/git/index.html",
     "_site/categories/git",
     "_site/categories/mysql/index.html",
-    "_site/categories/mysql",
     "_posts/2019-08-11-customize-the-favicon.md",
     "_posts/2019-08-09-getting-started.md",
     "_posts/2024-02-17-무제 파일.md",
