@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1aad58d43b62afb7",
+        "id": "ccfdc7c786c634c9",
         "type": "tabs",
         "children": [
           {
-            "id": "a38e892560ba1d04",
+            "id": "c3f816f136c79165",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -147,32 +147,31 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a38e892560ba1d04",
+  "active": "c3f816f136c79165",
   "lastOpenFiles": [
+    "_posts/2024-03-12-Git CRLF.md",
+    "_posts/2024-03-08-다중화와 IP.md",
+    "_posts/2024-03-07-Fork해온 Repository 동기화.md",
+    "_posts/2024-02-28-Stored Procedure.md",
+    "_posts/2024-03-14-컴퓨터 구조와 시스템 버스.md",
     "_site/posts/컴퓨터-구조와-시스템-버스/index.html",
     "_site/posts/컴퓨터-구조와-시스템-버스",
     "_site/categories/architecture/index.html",
     "_site/categories/architecture",
     "_site/categories/cs/index.html",
     "_site/categories/cs",
-    "_posts/2024-03-14-컴퓨터 구조와 시스템 버스.md",
-    "_posts/2024-03-08-다중화와 IP.md",
     "_posts/![Uploading.md",
-    "_posts/2024-03-12-Git CRLF.md",
     "_posts/2024-03-13-.md",
     "_site/posts/Git-CRLF/index.html",
     "_site/posts/Git-CRLF",
     "_site/assets/template/표.md",
     "_site/assets/img/ram.webp",
-    "_posts/2024-03-07-Fork해온 Repository 동기화.md",
     "_posts/2024-03-11-시간복잡도.md",
     "assets/img/ram.webp",
     "assets/template/표.md",
     "assets/template/블로그 템플릿.md",
     "_site/posts/다중화와-IP/index.html",
     "_site/posts/다중화와-IP",
-    "_site/categories/network/index.html",
-    "_posts/2024-02-28-Stored Procedure.md",
     "_posts/2019-08-11-customize-the-favicon.md",
     "_posts/2019-08-09-getting-started.md",
     "_posts/2024-02-17-무제 파일.md",
