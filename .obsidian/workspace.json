@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5195bea701bb1151",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2024-03-16-AWS RDS too many connection 해결 방법.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-03-14-컴퓨터 구조와 시스템 버스.md",
+                "file": "_posts/2024-03-16-AWS RDS too many connection 해결 방법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-03-14-컴퓨터 구조와 시스템 버스.md",
+                "file": "_posts/2024-03-16-AWS RDS too many connection 해결 방법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-03-14-컴퓨터 구조와 시스템 버스.md"
+                "file": "_posts/2024-03-16-AWS RDS too many connection 해결 방법.md"
               }
             }
           }
@@ -147,13 +160,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c3f816f136c79165",
+  "active": "5195bea701bb1151",
   "lastOpenFiles": [
+    "_posts/2024-03-14-컴퓨터 구조와 시스템 버스.md",
+    "_posts/2024-03-16-AWS RDS too many connection 해결 방법.md",
     "_posts/2024-03-12-Git CRLF.md",
     "_posts/2024-03-08-다중화와 IP.md",
     "_posts/2024-03-07-Fork해온 Repository 동기화.md",
     "_posts/2024-02-28-Stored Procedure.md",
-    "_posts/2024-03-14-컴퓨터 구조와 시스템 버스.md",
     "_site/posts/컴퓨터-구조와-시스템-버스/index.html",
     "_site/posts/컴퓨터-구조와-시스템-버스",
     "_site/categories/architecture/index.html",
