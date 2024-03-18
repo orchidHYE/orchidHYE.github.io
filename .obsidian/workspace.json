@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-03-18-.md",
-                "mode": "preview",
+                "file": "_posts/2024-03-18-컴퓨터의 데이터.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-03-18-.md",
+                "file": "_posts/2024-03-18-컴퓨터의 데이터.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-03-18-.md",
+                "file": "_posts/2024-03-18-컴퓨터의 데이터.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-03-18-.md"
+                "file": "_posts/2024-03-18-컴퓨터의 데이터.md"
               }
             }
           },
@@ -183,8 +183,14 @@
   },
   "active": "14671fbed68f874f",
   "lastOpenFiles": [
+    "_site/posts/컴퓨터의-데이터/index.html",
+    "_site/posts/컴퓨터의-데이터",
+    "_site/categories/소분류/index.html",
+    "_site/categories/소분류",
+    "_site/categories/대분류/index.html",
+    "_site/categories/대분류",
     "_posts/2024-03-16-AWS RDS too many connection 해결 방법.md",
-    "_posts/2024-03-18-.md",
+    "_posts/2024-03-18-컴퓨터의 데이터.md",
     "_site/posts/AWS-RDS-too-many-connection-해결-방법/index.html",
     "_site/posts/AWS-RDS-too-many-connection-해결-방법",
     "_site/categories/troubleshooting/index.html",
@@ -195,11 +201,6 @@
     "_posts/2024-03-07-Fork해온 Repository 동기화.md",
     "_posts/2024-02-28-Stored Procedure.md",
     "_site/posts/컴퓨터-구조와-시스템-버스/index.html",
-    "_site/posts/컴퓨터-구조와-시스템-버스",
-    "_site/categories/architecture/index.html",
-    "_site/categories/architecture",
-    "_site/categories/cs/index.html",
-    "_site/categories/cs",
     "_posts/![Uploading.md",
     "_posts/2024-03-13-.md",
     "_site/assets/template/표.md",
