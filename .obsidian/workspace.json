@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-03-27-컴퓨터 구조 소스 코드와 명령어.md",
+                "file": "_posts/2024-03-28-컴퓨터 구조 CPU 내부구조, ALU 제어장치 레지스터.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-03-27-컴퓨터 구조 소스 코드와 명령어.md",
+                "file": "_posts/2024-03-28-컴퓨터 구조 CPU 내부구조, ALU 제어장치 레지스터.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-03-27-컴퓨터 구조 소스 코드와 명령어.md"
+                "file": "_posts/2024-03-28-컴퓨터 구조 CPU 내부구조, ALU 제어장치 레지스터.md"
               }
             }
           },
@@ -169,8 +168,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5bde7403bc9fa1e7",
+  "active": "d921310f9fafce42",
   "lastOpenFiles": [
+    "_posts/2024-03-27-컴퓨터 구조 소스 코드와 명령어.md",
     "_posts/2024-03-28-컴퓨터 구조 CPU 내부구조, ALU 제어장치 레지스터.md",
     "_site/posts/컴퓨터-구조-CPU-내부구조,-ALU-제어장치-레지스터/index.html",
     "_site/posts/컴퓨터-구조-CPU-내부구조,-ALU-제어장치-레지스터",
@@ -178,7 +178,6 @@
     "_site/categories/소분류",
     "_site/posts/컴퓨터-구조-ALU와-제어장치/index.html",
     "_site/posts/컴퓨터-구조-ALU와-제어장치",
-    "_posts/2024-03-27-컴퓨터 구조 소스 코드와 명령어.md",
     "_site/posts/컴퓨터-구조-소스-코드와-명령어/index.html",
     "_site/posts/컴퓨터-구조-소스-코드와-명령어",
     "_posts/2024-03-27-스택과 큐.md",
