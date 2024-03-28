@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-03-28-컴퓨터 구조 ALU와 제어장치.md",
+                "file": "_posts/2024-03-28-컴퓨터 구조 CPU 내부구조, ALU 제어장치 레지스터.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-03-28-컴퓨터 구조 ALU와 제어장치.md",
+                "file": "_posts/2024-03-28-컴퓨터 구조 CPU 내부구조, ALU 제어장치 레지스터.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-03-28-컴퓨터 구조 ALU와 제어장치.md",
+                "file": "_posts/2024-03-28-컴퓨터 구조 CPU 내부구조, ALU 제어장치 레지스터.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-03-28-컴퓨터 구조 ALU와 제어장치.md"
+                "file": "_posts/2024-03-28-컴퓨터 구조 CPU 내부구조, ALU 제어장치 레지스터.md"
               }
             }
           },
@@ -158,8 +158,14 @@
   },
   "active": "d921310f9fafce42",
   "lastOpenFiles": [
+    "_site/posts/컴퓨터-구조-CPU-내부구조,-ALU-제어장치-레지스터/index.html",
+    "_site/posts/컴퓨터-구조-CPU-내부구조,-ALU-제어장치-레지스터",
+    "_site/categories/소분류/index.html",
+    "_site/categories/소분류",
+    "_site/posts/컴퓨터-구조-ALU와-제어장치/index.html",
+    "_site/posts/컴퓨터-구조-ALU와-제어장치",
     "_posts/2024-03-27-컴퓨터 구조 소스 코드와 명령어.md",
-    "_posts/2024-03-28-컴퓨터 구조 ALU와 제어장치.md",
+    "_posts/2024-03-28-컴퓨터 구조 CPU 내부구조, ALU 제어장치 레지스터.md",
     "_site/posts/컴퓨터-구조-소스-코드와-명령어/index.html",
     "_site/posts/컴퓨터-구조-소스-코드와-명령어",
     "_posts/2024-03-27-스택과 큐.md",
@@ -168,12 +174,7 @@
     "_posts/2024-03-18-컴퓨터의 데이터.md",
     "_site/posts/컴퓨터의-데이터/index.html",
     "_site/posts/컴퓨터의-데이터",
-    "_site/categories/소분류/index.html",
-    "_site/categories/소분류",
     "_site/categories/대분류/index.html",
-    "_site/categories/대분류",
-    "_site/posts/AWS-RDS-too-many-connection-해결-방법/index.html",
-    "_site/posts/AWS-RDS-too-many-connection-해결-방법",
     "_posts/2024-03-12-Git CRLF.md",
     "_posts/2024-03-08-다중화와 IP.md",
     "_posts/2024-03-07-Fork해온 Repository 동기화.md",
