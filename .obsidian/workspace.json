@@ -32,19 +32,29 @@
             }
           },
           {
-            "id": "5bde7403bc9fa1e7",
+            "id": "a67d30ee8f810eec",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
+          },
+          {
+            "id": "7990a7aa8be79709",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-03-27-컴퓨터 구조 소스 코드와 명령어.md",
+                "file": "_posts/2024-04-04-도커개념 및 구조.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -94,7 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 309.50379180908203
   },
   "right": {
     "id": "ac6cd889b18de180",
@@ -110,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-03-30-명령어 사이클과 인터럽트.md",
+                "file": "_posts/2024-04-04-도커개념 및 구조.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-03-30-명령어 사이클과 인터럽트.md",
+                "file": "_posts/2024-04-04-도커개념 및 구조.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-03-30-명령어 사이클과 인터럽트.md"
+                "file": "_posts/2024-04-04-도커개념 및 구조.md"
               }
             }
           },
@@ -181,8 +191,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b102e5b7f234f4f8",
+  "active": "7990a7aa8be79709",
   "lastOpenFiles": [
+    "_posts/2024-04-02-원티드 백엔드 챌린지.md",
+    "_posts/2024-04-04-도커개념 및 구조.md",
+    "_posts/2024-03-27-컴퓨터 구조 소스 코드와 명령어.md",
     "_site/categories/소분류/index.html",
     "_site/categories/소분류",
     "_site/categories/대분류/index.html",
@@ -191,12 +204,10 @@
     "_site/posts/명령어-사이클과-인터럽트",
     "_posts/2024-03-28-컴퓨터 구조 CPU 내부구조, ALU 제어장치 레지스터.md",
     "_posts/2024-03-30-명령어 사이클과 인터럽트.md",
-    "_posts/2024-03-27-컴퓨터 구조 소스 코드와 명령어.md",
     "_site/posts/컴퓨터-구조-CPU-내부구조,-ALU-제어장치-레지스터/index.html",
     "_site/posts/컴퓨터-구조-CPU-내부구조,-ALU-제어장치-레지스터",
     "_site/posts/컴퓨터-구조-ALU와-제어장치/index.html",
     "_site/posts/컴퓨터-구조-ALU와-제어장치",
-    "_site/posts/컴퓨터-구조-소스-코드와-명령어/index.html",
     "_posts/2024-03-27-스택과 큐.md",
     "_posts/2024-03-14-컴퓨터 구조와 시스템 버스.md",
     "_posts/2024-03-16-AWS RDS too many connection 해결 방법.md",
