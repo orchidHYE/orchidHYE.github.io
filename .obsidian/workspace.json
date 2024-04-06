@@ -4,69 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "ccfdc7c786c634c9",
+        "id": "d3423b5875038747",
         "type": "tabs",
         "children": [
           {
-            "id": "d921310f9fafce42",
+            "id": "af197e62ade3318d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-03-28-컴퓨터 구조 CPU 내부구조, ALU 제어장치 레지스터.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b102e5b7f234f4f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2024-03-30-명령어 사이클과 인터럽트.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a67d30ee8f810eec",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.12"
-              }
-            }
-          },
-          {
-            "id": "7990a7aa8be79709",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2024-04-04-도커개념 및 구조.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e3e651e91912ab9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2024-04-05-원티드 백엔드 챌린지, Docker (2).md",
+                "file": "_posts/2024-04-06-컴퓨터 구조 CPU 성능 향상 기법.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-04-05-원티드 백엔드 챌린지, Docker (2).md",
+                "file": "_posts/2024-04-06-컴퓨터 구조 CPU 성능 향상 기법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-04-05-원티드 백엔드 챌린지, Docker (2).md",
+                "file": "_posts/2024-04-06-컴퓨터 구조 CPU 성능 향상 기법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-04-05-원티드 백엔드 챌린지, Docker (2).md"
+                "file": "_posts/2024-04-06-컴퓨터 구조 CPU 성능 향상 기법.md"
               }
             }
           },
@@ -203,8 +156,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e3e651e91912ab9d",
+  "active": "af197e62ade3318d",
   "lastOpenFiles": [
+    "_posts/2024-04-06-컴퓨터 구조 CPU 성능 향상 기법.md",
     "_posts/2024-04-04-도커개념 및 구조.md",
     "_posts/2024-04-05-원티드 백엔드 챌린지, Docker (2).md",
     "_posts/2024-04-02-원티드 백엔드 챌린지.md",
