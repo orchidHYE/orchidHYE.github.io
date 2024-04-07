@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4c514908b98defca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2024-04-07-컴퓨터 구조 명령어 병렬 처리.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-04-06-컴퓨터 구조 CPU 성능 향상 기법.md",
+                "file": "_posts/2024-04-07-컴퓨터 구조 명령어 병렬 처리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-04-06-컴퓨터 구조 CPU 성능 향상 기법.md",
+                "file": "_posts/2024-04-07-컴퓨터 구조 명령어 병렬 처리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-04-06-컴퓨터 구조 CPU 성능 향상 기법.md"
+                "file": "_posts/2024-04-07-컴퓨터 구조 명령어 병렬 처리.md"
               }
             }
           },
@@ -156,8 +169,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "af197e62ade3318d",
+  "active": "4c514908b98defca",
   "lastOpenFiles": [
+    "_posts/2024-04-07.md",
+    "_posts/2024-04-07-컴퓨터 구조 명령어 병렬 처리.md",
+    "_posts/2024-04-06-컴퓨터 구조 CPU 성능 향상 기법.md",
     "_site/posts/컴퓨터-구조-CPU-성능-향상-기법/index.html",
     "_site/posts/컴퓨터-구조-CPU-성능-향상-기법",
     "_site/posts/원티드-백엔드-챌린지,-Docker-(2)/index.html",
@@ -168,12 +184,10 @@
     "_site/page2",
     "_site/categories/docker/index.html",
     "_site/categories/docker",
-    "_posts/2024-04-06-컴퓨터 구조 CPU 성능 향상 기법.md",
     "_posts/2024-04-04-도커개념 및 구조.md",
     "_posts/2024-04-05-원티드 백엔드 챌린지, Docker (2).md",
     "_posts/2024-04-02-원티드 백엔드 챌린지.md",
     "_posts/2024-03-27-컴퓨터 구조 소스 코드와 명령어.md",
-    "_site/categories/소분류/index.html",
     "_posts/2024-03-28-컴퓨터 구조 CPU 내부구조, ALU 제어장치 레지스터.md",
     "_posts/2024-03-30-명령어 사이클과 인터럽트.md",
     "_posts/2024-03-27-스택과 큐.md",
@@ -194,7 +208,6 @@
     "assets/template/블로그 템플릿.md",
     "_posts/2019-08-11-customize-the-favicon.md",
     "_posts/2019-08-09-getting-started.md",
-    "_posts/2024-02-17-무제 파일.md",
-    "_posts/2024-02-16-테스트.md"
+    "_posts/2024-02-17-무제 파일.md"
   ]
 }
