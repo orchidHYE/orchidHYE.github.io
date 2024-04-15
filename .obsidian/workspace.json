@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6964f59f2340010a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2024-04-15-메모리 주소 공간.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-04-12-원티드 백엔드 챌린지 (4).md",
+                "file": "_posts/2024-04-15-메모리 주소 공간.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-04-12-원티드 백엔드 챌린지 (4).md",
+                "file": "_posts/2024-04-15-메모리 주소 공간.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-04-12-원티드 백엔드 챌린지 (4).md"
+                "file": "_posts/2024-04-15-메모리 주소 공간.md"
               }
             }
           },
@@ -181,10 +193,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5dec618916075a51",
+  "active": "6964f59f2340010a",
   "lastOpenFiles": [
-    "_posts/2024-04-11-RAM.md",
     "_posts/2024-04-12-원티드 백엔드 챌린지 (4).md",
+    "_posts/2024-04-15-메모리 주소 공간.md",
+    "_posts/2024-04-11-RAM.md",
     "_posts/2024-04-12-Spring Boot Logback 로그 파일 생성.md",
     "_posts/2024-04-10-원티드 백엔드 챌린지, GitHub Action(3).md",
     "_posts/2024-04-09.md",
@@ -218,7 +231,6 @@
     "_posts/2024-02-28-Stored Procedure.md",
     "_posts/![Uploading.md",
     "_posts/2024-03-13-.md",
-    "_site/assets/template/표.md",
     "_site/assets/img/ram.webp",
     "assets/img/ram.webp"
   ]
