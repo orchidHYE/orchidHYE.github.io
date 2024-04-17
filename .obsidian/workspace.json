@@ -4,71 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "dabc521362a6e32d",
+        "id": "d3745ad85761bba1",
         "type": "tabs",
         "children": [
           {
-            "id": "3ea70451b770ee35",
+            "id": "37184cd47d1a11a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-04-10-원티드 백엔드 챌린지, GitHub Action(3).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "faf11f75e577c40f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2024-04-11-RAM.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5dec618916075a51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2024-04-12-원티드 백엔드 챌린지 (4).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6964f59f2340010a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2024-04-15-메모리 주소 공간.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f3879d22d71dcfdf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2024-04-16-캐시 메모리.md",
+                "file": "_posts/2024-04-17-보조기억장치.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-04-16-캐시 메모리.md",
+                "file": "_posts/2024-04-17-보조기억장치.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-04-16-캐시 메모리.md",
+                "file": "_posts/2024-04-17-보조기억장치.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-04-16-캐시 메모리.md"
+                "file": "_posts/2024-04-17-보조기억장치.md"
               }
             }
           },
@@ -205,11 +156,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f3879d22d71dcfdf",
+  "active": "37184cd47d1a11a6",
   "lastOpenFiles": [
+    "KakaoTalk_20240417_201421326_05.jpg",
+    "_posts/2024-04-17.md",
+    "_posts/2024-04-17-보조기억장치.md",
+    "_posts/2024-04-16-캐시 메모리.md",
     "_posts/2024-04-15-메모리 주소 공간.md",
     "_posts/2024-04-12-원티드 백엔드 챌린지 (4).md",
-    "_posts/2024-04-16-캐시 메모리.md",
     "_posts/2024-04-11-RAM.md",
     "_posts/2024-04-12-Spring Boot Logback 로그 파일 생성.md",
     "_posts/2024-04-10-원티드 백엔드 챌린지, GitHub Action(3).md",
@@ -240,9 +194,6 @@
     "_posts/2024-03-18-컴퓨터의 데이터.md",
     "_posts/2024-03-12-Git CRLF.md",
     "_posts/2024-03-08-다중화와 IP.md",
-    "_posts/2024-03-07-Fork해온 Repository 동기화.md",
-    "_posts/2024-02-28-Stored Procedure.md",
-    "_posts/![Uploading.md",
     "_site/assets/img/ram.webp",
     "assets/img/ram.webp"
   ]
