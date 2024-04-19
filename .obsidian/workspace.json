@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "55751c80f910ceb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2024-04-19-입출력장치.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-04-17-보조기억장치.md",
+                "file": "_posts/2024-04-19-입출력장치.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-04-17-보조기억장치.md",
+                "file": "_posts/2024-04-19-입출력장치.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-04-17-보조기억장치.md"
+                "file": "_posts/2024-04-19-입출력장치.md"
               }
             }
           },
@@ -156,10 +169,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "37184cd47d1a11a6",
+  "active": "55751c80f910ceb1",
   "lastOpenFiles": [
-    "_posts/2024-03-14-컴퓨터 구조와 시스템 버스.md",
     "_posts/2024-04-17-보조기억장치.md",
+    "_posts/2024-04-19-입출력장치.md",
+    "_posts/2024-03-14-컴퓨터 구조와 시스템 버스.md",
     "KakaoTalk_20240417_201421326_05.jpg",
     "_posts/2024-04-17.md",
     "_posts/2024-04-16-캐시 메모리.md",
