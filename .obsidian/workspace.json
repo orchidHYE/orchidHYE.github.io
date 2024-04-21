@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b7d17ef619cf5c5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2024-04-21-운영체제.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-04-19-입출력장치.md",
+                "file": "_posts/2024-04-21-운영체제.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-04-19-입출력장치.md",
+                "file": "_posts/2024-04-21-운영체제.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-04-19-입출력장치.md"
+                "file": "_posts/2024-04-21-운영체제.md"
               }
             }
           },
@@ -169,10 +181,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "55751c80f910ceb1",
+  "active": "b7d17ef619cf5c5e",
   "lastOpenFiles": [
-    "_posts/2024-04-17-보조기억장치.md",
     "_posts/2024-04-19-입출력장치.md",
+    "_posts/2024-04-21-운영체제.md",
+    "_posts/2024-04-17-보조기억장치.md",
     "_posts/2024-03-14-컴퓨터 구조와 시스템 버스.md",
     "KakaoTalk_20240417_201421326_05.jpg",
     "_posts/2024-04-17.md",
@@ -207,7 +220,6 @@
     "_posts/2024-03-16-AWS RDS too many connection 해결 방법.md",
     "_posts/2024-03-18-컴퓨터의 데이터.md",
     "_posts/2024-03-12-Git CRLF.md",
-    "_posts/2024-03-08-다중화와 IP.md",
     "_site/assets/img/ram.webp",
     "assets/img/ram.webp"
   ]
