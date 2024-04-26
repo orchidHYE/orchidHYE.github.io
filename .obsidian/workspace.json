@@ -8,55 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "37184cd47d1a11a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2024-04-17-보조기억장치.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "55751c80f910ceb1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2024-04-19-입출력장치.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b7d17ef619cf5c5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2024-04-21-운영체제를 알아야 하는 이유.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4af35f64ec858d18",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-04-24-프로세스 상태와 계층 구조.md",
-                "mode": "preview",
+                "file": "_posts/2024-04-26-멀티 프로세스와 멀티 스레드.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-04-24-프로세스 상태와 계층 구조.md",
+                "file": "_posts/2024-04-26-멀티 프로세스와 멀티 스레드.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-04-24-프로세스 상태와 계층 구조.md",
+                "file": "_posts/2024-04-26-멀티 프로세스와 멀티 스레드.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-04-24-프로세스 상태와 계층 구조.md"
+                "file": "_posts/2024-04-26-멀티 프로세스와 멀티 스레드.md"
               }
             }
           },
@@ -195,14 +158,15 @@
   },
   "active": "4af35f64ec858d18",
   "lastOpenFiles": [
-    "_posts/2024-04-23-프로세스.md",
-    "_posts/2024-04-24-프로세스 상태와 계층 구조.md",
-    "_posts/무제 파일.md",
-    "_posts/2024-04-22-운영체제.md",
-    "_posts/2024-04-22.md",
     "_posts/2024-04-21-운영체제를 알아야 하는 이유.md",
     "_posts/2024-04-19-입출력장치.md",
     "_posts/2024-04-17-보조기억장치.md",
+    "_posts/2024-04-26-멀티 프로세스와 멀티 스레드.md",
+    "_posts/2024-04-24-프로세스 상태와 계층 구조.md",
+    "_posts/2024-04-23-프로세스.md",
+    "_posts/무제 파일.md",
+    "_posts/2024-04-22-운영체제.md",
+    "_posts/2024-04-22.md",
     "_posts/2024-03-14-컴퓨터 구조와 시스템 버스.md",
     "KakaoTalk_20240417_201421326_05.jpg",
     "_posts/2024-04-17.md",
@@ -231,7 +195,6 @@
     "_posts/2024-04-05-원티드 백엔드 챌린지, Docker (2).md",
     "_posts/2024-04-02-원티드 백엔드 챌린지.md",
     "_posts/2024-03-27-컴퓨터 구조 소스 코드와 명령어.md",
-    "_posts/2024-03-28-컴퓨터 구조 CPU 내부구조, ALU 제어장치 레지스터.md",
     "_site/assets/img/ram.webp",
     "assets/img/ram.webp"
   ]
