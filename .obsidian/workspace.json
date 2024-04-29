@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d3745ad85761bba1",
+        "id": "176f3e1df85b3975",
         "type": "tabs",
         "children": [
           {
-            "id": "4af35f64ec858d18",
+            "id": "1e219a3ed77fc7d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-04-26-멀티 프로세스와 멀티 스레드.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a2727c628f22fade",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2024-04-27-CPU 스케줄링 알고리즘.md",
+                "file": "_posts/2024-04-29.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-04-27-CPU 스케줄링 알고리즘.md",
+                "file": "_posts/2024-04-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-04-27-CPU 스케줄링 알고리즘.md",
+                "file": "_posts/2024-04-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-04-27-CPU 스케줄링 알고리즘.md"
+                "file": "_posts/2024-04-29.md"
               }
             }
           },
@@ -169,8 +156,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a2727c628f22fade",
+  "active": "1e219a3ed77fc7d0",
   "lastOpenFiles": [
+    "_posts/2024-04-29.md",
     "_posts/2024-04-26-멀티 프로세스와 멀티 스레드.md",
     "_posts/2024-04-28.md",
     "_posts/2024-04-27-CPU 스케줄링 알고리즘.md",
@@ -207,7 +195,6 @@
     "_site/categories/docker/index.html",
     "_site/categories/docker",
     "_posts/2024-04-04-도커개념 및 구조.md",
-    "_posts/2024-04-05-원티드 백엔드 챌린지, Docker (2).md",
     "_site/assets/img/ram.webp",
     "assets/img/ram.webp"
   ]
