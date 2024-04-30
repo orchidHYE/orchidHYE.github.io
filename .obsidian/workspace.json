@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-04-29-동기화.md",
+                "file": "_posts/2024-04-30.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-04-29-동기화.md",
+                "file": "_posts/2024-04-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-04-29-동기화.md",
+                "file": "_posts/2024-04-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-04-29-동기화.md"
+                "file": "_posts/2024-04-30.md"
               }
             }
           },
@@ -158,8 +158,19 @@
   },
   "active": "1e219a3ed77fc7d0",
   "lastOpenFiles": [
-    "_posts/2024-04-27-CPU 스케줄링 알고리즘.md",
     "_posts/2024-04-29-동기화.md",
+    "_posts/2024-04-30.md",
+    "_site/posts/동기화/index.html",
+    "_site/posts/동기화",
+    "_site/posts/CPU-스케줄링-알고리즘/index.html",
+    "_site/posts/CPU-스케줄링-알고리즘",
+    "_site/posts/멀티-프로세스와-멀티-스레드/index.html",
+    "_site/posts/멀티-프로세스와-멀티-스레드",
+    "_site/posts/프로세스-상태와-계층-구조/index.html",
+    "_site/posts/프로세스-상태와-계층-구조",
+    "_site/posts/프로세스/index.html",
+    "_site/posts/프로세스",
+    "_posts/2024-04-27-CPU 스케줄링 알고리즘.md",
     "_posts/2024-04-26-멀티 프로세스와 멀티 스레드.md",
     "_posts/2024-04-28.md",
     "_posts/2024-04-21-운영체제를 알아야 하는 이유.md",
@@ -184,17 +195,6 @@
     "_posts/2024-04-07-컴퓨터 구조 명령어 병렬 처리.md",
     "_posts/2024-04-06-컴퓨터 구조 CPU 성능 향상 기법.md",
     "_posts/2024-04-07.md",
-    "_site/posts/컴퓨터-구조-CPU-성능-향상-기법/index.html",
-    "_site/posts/컴퓨터-구조-CPU-성능-향상-기법",
-    "_site/posts/원티드-백엔드-챌린지,-Docker-(2)/index.html",
-    "_site/posts/원티드-백엔드-챌린지,-Docker-(2)",
-    "_site/posts/도커개념-및-구조/index.html",
-    "_site/posts/도커개념-및-구조",
-    "_site/page2/index.html",
-    "_site/page2",
-    "_site/categories/docker/index.html",
-    "_site/categories/docker",
-    "_posts/2024-04-04-도커개념 및 구조.md",
     "_site/assets/img/ram.webp",
     "assets/img/ram.webp"
   ]
