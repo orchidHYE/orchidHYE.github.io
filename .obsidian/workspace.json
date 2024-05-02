@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "176f3e1df85b3975",
+        "id": "6a308d7e77847c83",
         "type": "tabs",
         "children": [
           {
-            "id": "1e219a3ed77fc7d0",
+            "id": "f3ad0e46fdbd4c34",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -156,10 +156,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1e219a3ed77fc7d0",
+  "active": "f3ad0e46fdbd4c34",
   "lastOpenFiles": [
-    "_posts/2024-04-30-동기화 기법.md",
+    "_posts/2024-05-02.md",
     "_posts/2024-05-01-교착 상태.md",
+    "_posts/2024-03-12-Git CRLF.md",
+    "_posts/2024-04-30-동기화 기법.md",
     "_posts/2024-04-29-동기화.md",
     "_site/posts/동기화/index.html",
     "_site/posts/동기화",
@@ -193,8 +195,6 @@
     "_posts/2024-04-10-원티드 백엔드 챌린지, GitHub Action(3).md",
     "_posts/2024-04-09.md",
     "_posts/2024-04-08-컴퓨터 구조 ISA (Instruction Set Architecture).md",
-    "_posts/2024-04-07-컴퓨터 구조 명령어 병렬 처리.md",
-    "_posts/2024-04-06-컴퓨터 구조 CPU 성능 향상 기법.md",
     "_site/assets/img/ram.webp",
     "assets/img/ram.webp"
   ]
