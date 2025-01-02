@@ -25,7 +25,7 @@ math: true
 
 - ci/cd 란  
     ![ci-cd-flow-desktop.png?cicd=32h281b](https://www.redhat.com/rhdc/managed-files/ci-cd-flow-desktop.png?cicd=32h281b)
-- from. “CI/CD(CI CD, 지속적 통합/지속적 배포): 개념, 툴, 구축, 차이.” _Redhat.com_, 2024, [www.redhat.com/ko/topics/devops/what-is-ci-cd](http://www.redhat.com/ko/topics/devops/what-is-ci-cd). (좋은 아티클이니 한번 꼭 읽어보세요!)
+- from. “CI/CD(CI CD, 지속적 통합/지속적 배포): 개념, 툴, 구축, 차이.” _Redhat.com_, 2024, [www.redhat.com/ko/topics/devops/what-is-ci-cd](https://www.redhat.com/ko/topics/devops/what-is-ci-cd). (좋은 아티클이니 한번 꼭 읽어보세요!)
 
 ‌
 

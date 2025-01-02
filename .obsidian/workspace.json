@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-12-19-(Shell)-서버에서-동시접속자-확인하기.md",
+                "file": "_posts/2024-04-05-원티드 백엔드 챌린지, Docker (2).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-12-19-(Shell)-서버에서-동시접속자-확인하기"
+              "title": "2024-04-05-원티드 백엔드 챌린지, Docker (2)"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:쉘스크립트",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +73,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -177,9 +176,10 @@
   },
   "active": "c327894fa935a0d5",
   "lastOpenFiles": [
+    "_posts/2024-04-10-원티드 백엔드 챌린지, GitHub Action(3).md",
+    "_posts/2024-12-19-(Shell)-서버에서-동시접속자-확인하기.md",
     "_posts/2024-05-01-교착 상태.md",
     "_posts/2024-04-04-도커개념 및 구조.md",
-    "_posts/2024-12-19-(Shell)-서버에서-동시접속자-확인하기.md",
     "_posts/2024-05-03-연속 메모리 할당.md",
     "assets/template/블로그 템플릿.md",
     "assets/template/표.md",
@@ -212,7 +212,6 @@
     "_posts/2024-04-21-운영체제를 알아야 하는 이유.md",
     "_posts/2024-04-19-입출력장치.md",
     "_posts/2024-04-17-보조기억장치.md",
-    "_posts/2024-04-24-프로세스 상태와 계층 구조.md",
     "KakaoTalk_20240417_201421326_05.jpg",
     "_site/assets/img/ram.webp",
     "assets/img/ram.webp"
