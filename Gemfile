@@ -1,22 +1,8 @@
 # frozen_string_literal: true
 source "https://rubygems.org"
 
-# Jekyll theme
-gem "jekyll-theme-chirpy"
+gemspec
 
-# GitHub Pages, Jekyll 관련 gem
-gem "jekyll", "~> 4.3"
-gem "rouge"
-gem "webrick"
-
-# Jekyll 플러그인
-group :jekyll_plugins do
-  gem "jekyll-feed"
-  gem "jekyll-sitemap"
-  gem "jekyll-seo-tag"
-  gem "jekyll-archives"
-  gem "jekyll-paginate"
-end
 
 group :test do
   gem "html-proofer", "~> 4.4"
