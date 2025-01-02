@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "81f604caadacb605",
+        "id": "4f9a9e0f6e6fbb9b",
         "type": "tabs",
         "children": [
           {
-            "id": "3664d86f16ae2c2e",
+            "id": "c327894fa935a0d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-05-03-연속 메모리 할당.md",
+                "file": "_posts/2024-12-19-(Shell)-서버에서-동시접속자-확인하기.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "2024-12-19-(Shell)-서버에서-동시접속자-확인하기"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
             }
           },
           {
@@ -48,13 +52,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:쉘스크립트",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "검색"
             }
           },
           {
@@ -62,10 +68,13 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-05-03-연속 메모리 할당.md",
+                "file": "_posts/2024-08-07-.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +102,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "2024-08-07-의 백링크"
             }
           },
           {
@@ -102,10 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-05-03-연속 메모리 할당.md",
+                "file": "_posts/2024-12-19-(Shell)-서버에서-동시접속자-확인하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "2024-12-19-(Shell)-서버에서-동시접속자-확인하기의 나가는 링크"
             }
           },
           {
@@ -116,7 +129,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-05-03-연속 메모리 할당.md"
-              }
+                "file": "_posts/2024-08-07-.md"
+              },
+              "icon": "lucide-list",
+              "title": "2024-08-07- 개요"
             }
           },
           {
@@ -134,11 +151,13 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -156,10 +175,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3664d86f16ae2c2e",
+  "active": "c327894fa935a0d5",
   "lastOpenFiles": [
-    "_posts/2024-05-03-연속 메모리 할당.md",
     "_posts/2024-05-01-교착 상태.md",
+    "_posts/2024-04-04-도커개념 및 구조.md",
+    "_posts/2024-12-19-(Shell)-서버에서-동시접속자-확인하기.md",
+    "_posts/2024-05-03-연속 메모리 할당.md",
+    "assets/template/블로그 템플릿.md",
+    "assets/template/표.md",
+    "_posts/2024-04-23-프로세스.md",
+    "_posts/2024-12-11-SSL이란.md",
+    "_posts/2024-10-04-Web Storage 종류와 비교.md",
+    "_posts/2024-09-12-React 정적데이터, public vs assets.md",
+    "_posts/2024-08-07-.md",
+    "_posts/무제 파일 2.md",
+    "_posts/클라우드 네트워크.md",
+    "_posts/무제 파일 1.md",
+    "소비의 가치를 지키다, ZERO COST 9888bb13755f4f95aef54ffecb8a7eb1/백엔드 1354241832ca809b868df2252c647fff.md",
+    "소비의 가치를 지키다, ZERO COST 9888bb13755f4f95aef54ffecb8a7eb1",
     "_site/posts/동기화-기법/index.html",
     "_site/posts/동기화-기법",
     "_site/posts/교착-상태/index.html",
@@ -173,7 +206,6 @@
     "_site/posts/동기화/index.html",
     "_site/posts/동기화",
     "_site/posts/CPU-스케줄링-알고리즘/index.html",
-    "_site/posts/CPU-스케줄링-알고리즘",
     "_posts/2024-04-27-CPU 스케줄링 알고리즘.md",
     "_posts/2024-04-26-멀티 프로세스와 멀티 스레드.md",
     "_posts/2024-04-28.md",
@@ -181,20 +213,7 @@
     "_posts/2024-04-19-입출력장치.md",
     "_posts/2024-04-17-보조기억장치.md",
     "_posts/2024-04-24-프로세스 상태와 계층 구조.md",
-    "_posts/2024-04-23-프로세스.md",
-    "_posts/무제 파일.md",
-    "_posts/2024-04-22-운영체제.md",
-    "_posts/2024-04-22.md",
-    "_posts/2024-03-14-컴퓨터 구조와 시스템 버스.md",
     "KakaoTalk_20240417_201421326_05.jpg",
-    "_posts/2024-04-17.md",
-    "_posts/2024-04-16-캐시 메모리.md",
-    "_posts/2024-04-15-메모리 주소 공간.md",
-    "_posts/2024-04-12-원티드 백엔드 챌린지 (4).md",
-    "_posts/2024-04-11-RAM.md",
-    "_posts/2024-04-12-Spring Boot Logback 로그 파일 생성.md",
-    "_posts/2024-04-10-원티드 백엔드 챌린지, GitHub Action(3).md",
-    "_posts/2024-04-09.md",
     "_site/assets/img/ram.webp",
     "assets/img/ram.webp"
   ]
