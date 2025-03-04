@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4f9a9e0f6e6fbb9b",
+        "id": "1d231daeadc1c9ba",
         "type": "tabs",
         "children": [
           {
-            "id": "c327894fa935a0d5",
+            "id": "ab1bf48dffa6de70",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-02-28-Stored Procedure.md",
+                "file": "_private/knou/3-1/이산수학/2025-03-04-1강-이산수학의 개요.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-02-28-Stored Procedure"
+              "title": "2025-03-04-1강-이산수학의 개요"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "파일 탐색기"
@@ -77,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ac6cd889b18de180",
@@ -165,28 +167,36 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:퀵 스위처 열기": false,
+      "switcher:빠른 전환기 열기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c327894fa935a0d5",
+  "active": "ab1bf48dffa6de70",
   "lastOpenFiles": [
+    "_private/knou/3-1/이산수학/2025-03-04-1강-이산수학의 개요.md",
+    "node_modules/stylelint/README.md",
+    "_private/knou/3-1/파이썬/2025-02-27-3강-파이썬의 이해.md",
+    "_private/knou/3-1/이산수학",
+    "_private/knou/3-1/파이썬/2025-02-25-2강-컴퓨터의 구성.md",
+    "_private/knou/3-1/파이썬/2025-02-25-1강-컴퓨터의 이해.md",
+    "_private/knou/3-1/디지털논리회로/2025-02-17-1강-컴퓨터와 디지털  논리회로 및데이터 표현.md",
+    "_private/knou/3-1/파이썬",
+    "_private/knou/무제 폴더",
+    "_private/knou/3-1/무제 폴더/무제 파일.md",
+    "_private/knou/3-1/디지털논리회로",
+    "_private/knou/3-1",
+    "_private/knou",
+    "_posts/2024-02-28-Stored Procedure.md",
+    "_private",
     "_posts/2024-05-01-교착 상태.md",
     "_site/assets/js/dist/page.min.js",
     "_site/assets/js/dist/post.min.js",
     "_site/assets/js/dist/misc.min.js",
-    "_site/assets/js/dist/home.min.js",
-    "_site/assets/js/dist/commons.min.js",
-    "_site/assets/js/dist/categories.min.js",
-    "_site/assets/js/dist/app.min.js",
-    "_site/assets/js/data/swconf.js",
-    "_site/assets/js/data/search.json",
-    "_site/assets/img/favicons/site.webmanifest",
     "_site/assets/img/favicons/mstile-150x150.png",
     "_site/assets/img/favicons/favicon-32x32.png",
     "_site/assets/img/favicons/favicon-16x16.png",
@@ -211,13 +221,6 @@
     "_posts/무제 파일 2.md",
     "_posts/클라우드 네트워크.md",
     "_posts/무제 파일 1.md",
-    "_posts/2024-05-02.md",
-    "_posts/2024-03-12-Git CRLF.md",
-    "_posts/2024-04-30-동기화 기법.md",
-    "_posts/2024-04-29-동기화.md",
-    "_posts/2024-04-27-CPU 스케줄링 알고리즘.md",
-    "_posts/2024-04-26-멀티 프로세스와 멀티 스레드.md",
-    "_posts/2024-04-28.md",
     "KakaoTalk_20240417_201421326_05.jpg",
     "assets/img/ram.webp"
   ]
