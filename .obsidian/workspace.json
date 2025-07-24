@@ -4,41 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "3f78abca6b609055",
+        "id": "c372f26ff811304e",
         "type": "tabs",
         "children": [
           {
-            "id": "47ba2237e0ee40d9",
+            "id": "d91796714f329547",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-03-12-Git CRLF.md",
+                "file": "_posts/2025-07-23-LAN과 WAN (+VPN).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-03-12-Git CRLF"
+              "title": "2025-07-23-LAN과 WAN (+VPN)"
             }
-          }
-        ]
-      },
-      {
-        "id": "e76bec6e611fd124",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "d4424cb820e1f933",
+            "id": "37e3306d7e1ad34d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2025-07-15-Git 브랜치 전력과 커밋 컨벤션.md",
+                "file": "_private/ready/2025-07-23-네트워크 구성도.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-07-15-Git 브랜치 전력과 커밋 컨벤션"
+              "title": "2025-07-23-네트워크 구성도"
             }
           }
         ]
@@ -172,17 +166,16 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "플러그인이 더 이상 활성화돼있지 않음"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,10 +188,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d4424cb820e1f933",
+  "active": "d91796714f329547",
   "lastOpenFiles": [
-    "_posts/2024-03-12-Git CRLF.md",
+    "_private/ready/2025-07-10-AWS S3 IAM 계정 생성 및 권한 부여.md",
+    "_posts/2025-07-23-LAN과 WAN (+VPN).md",
+    "_private/ready/2025-07-23-네트워크 구성도.md",
+    "assets/img/Pasted image 20250724091118.png",
+    "assets/img/Pasted image 20250724091057.png",
+    "assets/img/Pasted image 20250724091029.png",
     "_posts/2025-07-15-Git 브랜치 전력과 커밋 컨벤션.md",
+    "_posts/2024-03-12-Git CRLF.md",
     "_private/2025-03-14.md",
     "_posts/2025-04-13-컴퓨터의 이해 중간과제.md",
     "assets/template/블로그 템플릿.md",
@@ -220,9 +219,6 @@
     "_posts/2024-04-12-원티드 백엔드 챌린지 (4).md",
     "_posts/2024-04-10-원티드 백엔드 챌린지, GitHub Action(3).md",
     "_posts/2024-04-08-컴퓨터 구조 ISA (Instruction Set Architecture).md",
-    "_posts/2024-04-07-컴퓨터 구조 명령어 병렬 처리.md",
-    "_posts/2024-04-06-컴퓨터 구조 CPU 성능 향상 기법.md",
-    "_posts/2024-04-05-원티드 백엔드 챌린지, Docker (2).md",
     "_private/ready",
     "assets/img/Pasted image 20250607160731.png",
     "assets/img/Pasted image 20250607160615.png",
@@ -231,9 +227,6 @@
     "assets/img/Pasted image 20250607160312.png",
     "assets/img/Pasted image 20250607160245.png",
     "assets/img/Pasted image 20250607153308.png",
-    "assets/img/Pasted image 20250607153248.png",
-    "assets/img/Pasted image 20250607153159.png",
-    "assets/img/Pasted image 20250607152834.png",
     "_private/knou/3-1/컴퓨터의 이해",
     "_private/knou/3-1/데이터정보처리입문",
     "_private/knou/3-1/이산수학",
